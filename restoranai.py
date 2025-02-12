@@ -51,7 +51,7 @@ for restaurant in restaurants:
 if not found:
     print("No restaurants meet your rating criteria.")
 
-    
+
 
 
 
